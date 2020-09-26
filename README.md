@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Buscador de imagenes
 En esta app se usa la API PixaBay : https://pixabay.com/api/docs/
+Tambien se usa Bootswatch
 
 ### `npm start`
 ### `npm i react-transition-group `
